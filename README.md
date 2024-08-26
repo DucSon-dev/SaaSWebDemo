@@ -26,3 +26,7 @@ SaaSWebDemo là dự án mẫu cho một trang web giới thiệu dịch vụ th
 3 **Sử dụng**
  - Mở Dự Án: Mở index.html trong trình duyệt để xem trang web.
  - Tùy Chỉnh: Thay đổi nội dung trong các tệp HTML và CSS theo nhu cầu. Cập nhật liên kết và tài nguyên nếu cần.
+
+4 **Thông tin liên hệ**
+ - Email: hi@sown.com.vn
+ - LinkedIn: SOWN
