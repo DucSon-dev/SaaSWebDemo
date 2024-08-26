@@ -16,3 +16,13 @@ SaaSWebDemo là dự án mẫu cho một trang web giới thiệu dịch vụ th
 
    ```bash
    git clone https://github.com/[your-username]/SaaSWebDemo.git
+
+
+2. **Di chuyển đến thư mục dự án**
+   
+   ```bash
+   cd /your/path/to/project-directory
+
+3 **Sử dụng**
+ - Mở Dự Án: Mở index.html trong trình duyệt để xem trang web.
+ - Tùy Chỉnh: Thay đổi nội dung trong các tệp HTML và CSS theo nhu cầu. Cập nhật liên kết và tài nguyên nếu cần.
