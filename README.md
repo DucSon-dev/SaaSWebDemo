@@ -15,7 +15,7 @@ SaaSWebDemo là dự án mẫu cho một trang web giới thiệu dịch vụ th
 1. **Clone Repository**
 
    ```bash
-   git clone https://github.com/[DucSon-dev]/SaaSWebDemo.git
+   git clone https://github.com/DucSon-dev/SaaSWebDemo.git
 
 
 2. **Di chuyển đến thư mục dự án**
