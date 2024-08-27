@@ -10,6 +10,34 @@ SaaSWebDemo là dự án mẫu cho một trang web giới thiệu dịch vụ th
 - **Thiết Kế**: Cách chúng tôi thiết kế và các kế hoạch.
 - **Liên Hệ**: Thông tin liên lạc và kết nối.
 
+## Chú thích các lệnh 
+- `git clone https://github.com/DucSon-dev/SaaSWebDemo.git`:
+  - Chú thích: Sao chép repository từ GitHub về máy của bạn.
+
+- `cd /your/path/to/project-directory`:
+  - Chú thích: Di chuyển đến thư mục dự án trên máy của bạn.
+
+- `git clone <link-copied>`:
+  - Chú thích: Sao chép repository đã fork về máy của bạn.
+
+- `cd practice-pull-request`:
+  - Chú thích: Di chuyển đến thư mục của repository đã clone.
+
+- `git checkout -b darker-theme`:
+  - Chú thích: Tạo và chuyển đến nhánh mới để thực hiện thay đổi.
+
+- `git remote add upstream https://github.com/charmingdata/practice-pull-request.git`:
+  - Chú thích: Thêm remote upstream để đồng bộ hóa với repository gốc.
+
+- `git diff --word-diff`:
+  - Chú thích: Kiểm tra các thay đổi bạn đã thực hiện.
+
+- `git commit -a -m "make-darker-theme"`:
+  - Chú thích: Commit các thay đổi với thông điệp mô tả.
+
+- `git push origin darker-theme`:
+  - Chú thích: Đẩy nhánh mới lên repository đã fork.
+
 ## Cài Đặt
 
 1. **Clone Repository**
