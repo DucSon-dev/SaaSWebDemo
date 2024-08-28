@@ -3,15 +3,19 @@
 
 /* PC */
 
-@media (min-width:1024px) {}
+@media (min-width: 1024px) {
+    /* Thêm CSS cho PC ở đây nếu cần */
+}
 
 
 /* Tablet */
 
-@media (min-witdh:740px) and (max-witdh:1024px) {}
+@media (min-width: 740px) and (max-width: 1024px) {
+    /* Thêm CSS cho Tablet ở đây nếu cần */
+}
 
 
-/* Moblie */
+/* Mobile */
 
 @media (max-width: 739px) {
     #navbar {
